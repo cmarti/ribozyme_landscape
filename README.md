@@ -18,7 +18,7 @@ Analyses are performed in the different jupyter notebooks in the present folder
 
 ## References
 
-1. Rotrattanadumrong, R.; Yokobayashi, Y. Experimental Exploration of a Ribozyme Neutral Network Using Evolutionary Algo- Rithm and Deep Learning. Nature Communications 2022, 1–14. [link](https://doi.org/10.1038/s41467-022-32538-z)
+1. Rotrattanadumrong, R.; Yokobayashi, Y. Experimental Exploration of a Ribozyme Neutral Network Using Evolutionary Algorithm and Deep Learning. Nature Communications 2022, 1–14. [link](https://doi.org/10.1038/s41467-022-32538-z)
 2. Mccandlish, D. M. Visualizing Fitness Landscapes. Evolution 2011, 65 (6), 1544–1558. [link](https://doi.org/10.1111/j.1558-5646.2011.01236.x)
 
 
